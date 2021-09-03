@@ -1,0 +1,28 @@
+
+
+.app__container {
+    max-width: 60%;
+    margin: 0 auto;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
+
+button {
+    margin-top: 3px;
+    margin-right: 3px;
+}
+
+ul {
+    padding: 0;
+}
+
